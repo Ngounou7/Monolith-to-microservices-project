@@ -42,13 +42,25 @@ venv/
 !.elasticbeanstalk/*.global.yml
 set_env.sh
 aws-secret.yaml
+<<<<<<< HEAD
 env-secret-yaml
+=======
+env-secret.yaml
+>>>>>>> e0695ed03d1620e10976d858ac1eae300d87dc27
 env-configmap.yaml
 backend-feed-deployment.yaml
 backend-user-deployment.yaml
 frontend-deployment.yaml
+<<<<<<< HEAD
 reverseproxy-deployment.yaml
 backend-feed-service.yaml
 backend-user-service.yaml
 frontend-service.yaml
 reverseproxy-service.yaml
+=======
+reverseproxy-service.yaml
+backend-feed-service.yaml
+backend-user-service.yaml
+frontend-service.yaml
+reverseproxy-service.yaml
+>>>>>>> e0695ed03d1620e10976d858ac1eae300d87dc27
