@@ -42,7 +42,7 @@ venv/
 !.elasticbeanstalk/*.global.yml
 set_env.sh
 aws-secret.yaml
-env-secret-yaml
+env-secret.yaml
 env-configmap.yaml
 backend-feed-deployment.yaml
 backend-user-deployment.yaml
