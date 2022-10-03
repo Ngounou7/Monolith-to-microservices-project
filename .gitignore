@@ -52,3 +52,4 @@ backend-feed-service.yaml
 backend-user-service.yaml
 frontend-service.yaml
 reverseproxy-service.yaml
+deploy.sh
